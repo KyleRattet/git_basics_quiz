@@ -6,7 +6,7 @@ Kyle Rattet
 
 ###What is your favorite color?
 
-Your answer goes here
+Blue
 
 ###Cats or Dogs?
 
